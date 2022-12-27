@@ -1,9 +1,4 @@
-// --== CS400 Project One File Header ==--
-// Name: Daniel Bradford
-// CSL Username: bradford
-// Email: dcbradford@wisc.edu
-// Lecture #: 001 @11:00am
-// Notes to Grader:
+
 
 /**
  * a node that is part of a linked list that stores a KeyType and ValueType
